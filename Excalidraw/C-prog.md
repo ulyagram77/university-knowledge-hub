@@ -18,8 +18,8 @@ tags: [excalidraw]
 	"elements": [
 		{
 			"type": "embeddable",
-			"version": 48,
-			"versionNonce": 94833993,
+			"version": 201,
+			"versionNonce": 506365479,
 			"isDeleted": false,
 			"id": "9TYiDJ5J",
 			"fillStyle": "hachure",
@@ -28,8 +28,8 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -464.5,
-			"y": -333.2578125,
+			"x": -498.2931034482759,
+			"y": -342.2233297413793,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 800,
@@ -39,7 +39,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713370226099,
+			"updated": 1713370664750,
 			"link": "https://excalidraw.com/#room=6eaf2e9bd77b49d5ea86,hCnzhR5ELpmdg6lrfa-_CQ",
 			"locked": false,
 			"customData": {
