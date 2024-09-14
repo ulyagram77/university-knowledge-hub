@@ -1,7 +1,7 @@
 <div align='center'>
 	  <img src="/Guides/assets/banner.png" alt=" Banner">
 	  <br/>
-	  <h3 align="center">🎓 БАЗА ЗНАНЬ 123 ПКІ 🎓</h3>
+	  <h2 align="center">🎓 БАЗА ЗНАНЬ 123 ПКІ 🎓</h2>
 </div>
 
 ### Список всіх предметів:
