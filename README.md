@@ -14,5 +14,4 @@
 
 ### Як користуватися: 
 
-* [[How To Use Markdown]]
-* [[How To Use This Base]]
+ - [GUIDE](./Guides/guide)
