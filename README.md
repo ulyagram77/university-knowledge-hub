@@ -14,5 +14,6 @@
 
 ### Як користуватися: 
 
- - [GUIDE](./Guides/guide.md)
+ - [Шпаргалка по markdown](Guides/MDGUIDE.md)
+ - [Правила користування базою](Guides/BASEGUIDE.md)
 
