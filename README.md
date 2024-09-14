@@ -17,5 +17,4 @@
  - [GUIDE](./Guides/guide)
 
 > [!CAUTION]
-
 > The package `react-select` is optional. It is unnecessary if you're only using [the hook](#-timezone-hook).
