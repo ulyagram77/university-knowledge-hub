@@ -16,4 +16,4 @@
 
  - [Шпаргалка по markdown](Guides/MDGUIDE.md)
  - [Правила користування базою](Guides/BASEGUIDE.md)
-
+ - [Інструкція з налаштування бази на своєму ПК](Guides/SETUPGUIDE.md)
