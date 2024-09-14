@@ -1,6 +1,10 @@
+<div align='center'>
+	  <h2 align="center">🗒️ ШПОРА ПО MD 🗒️</h2>
+</div>
+
 tags: #markdown
 
-## Загаловки
+## Заголовки
 
 # H1
 
