@@ -14,5 +14,5 @@
 
 ### Як користуватися: 
 
- - [GUIDE](./Guides/guide)
+ - [GUIDE](./Guides/guide.md)
 
