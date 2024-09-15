@@ -19,5 +19,13 @@ git clone https://github.com/ulyagram77/university-knowledge-hub.git
 
 ![App Screenshot](/Guides/assets/1.png)
 
+Вітаю) Ти успішно встановив базу та вже можеш користуватися нею) Тільки не забудь перемикнутися у  `режим читання`:
+
+![App Screenshot](/Guides/assets/2.png)
+
+## Налаштування obsidian для роботи з базою
+
+Тепер тобі треба встановити додаткові плагіни для комфортної роботи з базою знань.  
+
 
 
