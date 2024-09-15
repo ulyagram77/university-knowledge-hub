@@ -17,5 +17,5 @@ git clone https://github.com/ulyagram77/university-knowledge-hub.git
 
 Тепер відкриваємо встановлений `obsidian` та знаходимо і відкриваємо щойно склонований репозиторій:
 
-![[Pasted image 20240915213615.png]]
+![App Screenshot](./Guides/1.png)
 
