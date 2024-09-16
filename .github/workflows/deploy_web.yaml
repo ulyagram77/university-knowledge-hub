@@ -1,0 +1,19 @@
+name: Trigger repository_dispatch in web Base repo
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  trigger-repo-a-action:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Call repository_dispatch to trigger action in web Base repo
+        run: |
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/ulyagram77/university-knowledge-hub-web/dispatches \
+            -d '{"event_type": "trigger-action"}'
