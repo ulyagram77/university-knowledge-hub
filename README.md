@@ -1,3 +1,7 @@
+---
+title: База знань
+---
+
 <div align='center'>
 	  <img src="/Guides/assets/banner.png" alt=" Banner">
 	  <br/>
