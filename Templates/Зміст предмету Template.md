@@ -1,13 +1,14 @@
 ---
+tags:
+  - subject-tag
 викладачі:
   - Викладач 1 (лектор)
   - Викладач 2 (практика)
-тип виконання: звіти, онлайн захист, екзамен
+захист предмету: екзамен, автомат за лаби + курсовий проект і тд...
+звіти по лабам: так/ні
 посилання:
   - https://help.obsidian.md/Editing+and+formatting/Properties
   - https://help.obsidian.md/Editing+and+formatting/Properties
-tags:
-  - subject-tag
 ---
 
 
