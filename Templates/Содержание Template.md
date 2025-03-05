@@ -4,8 +4,8 @@
   - Викладач 2 (практика)
 тип виконання: звіти, онлайн захист, екзамен
 посилання:
-  - "https://help.obsidian.md/Editing+and+formatting/Properties"
-  - "https://help.obsidian.md/Editing+and+formatting/Properties" 
+  - https://help.obsidian.md/Editing+and+formatting/Properties
+  - https://help.obsidian.md/Editing+and+formatting/Properties
 tags:
   - subject-tag
 ---
